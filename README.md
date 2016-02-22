@@ -16,6 +16,7 @@ type (
 
 import (
     "github.com/mirrr/mgo-wrapper"
+    "fmt"
 )
 
 func main() {
